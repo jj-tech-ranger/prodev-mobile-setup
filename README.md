@@ -43,4 +43,3 @@ To run any of the applications:
 4. Scan the QR code with the **Expo Go** app on your physical device.
 
 ---
-Created by Gemini for ALX Mobile Development Module.
